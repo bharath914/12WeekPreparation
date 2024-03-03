@@ -1,0 +1,115 @@
+id,problemTopic,subTopic,problemName,isCompleted,notes,week,learningType
+1,Arrays,Sliding WIndow,Maximum average subarray,FALSE,,Week1,Study
+2,Arrays,Sliding WIndow,Find all anagrams in a string,FALSE,,Week1,Study
+3,Arrays,Sliding WIndow,Permutation in string,FALSE,,Week1,Study
+4,Arrays,Sliding WIndow,Count unique characters of all substrings of a given string,FALSE,,Week1,Study
+5,Arrays,Sliding WIndow,Substrings of size three with distinct characters,FALSE,,Week1,Practice
+6,Arrays,Sliding WIndow,Minimum size subarray sum,FALSE,,Week1,Practice
+7,Arrays,Sliding WIndow,Longest repeating character replacement,FALSE,,Week1,Practice
+8,Arrays,Sliding WIndow,Longest substring without repeating characters,FALSE,,Week1,Practice
+9,Arrays,Sliding WIndow,Sliding window maximummi,FALSE,,Week1,Practice
+10,Arrays,Sliding WIndow,Minimum window substring,FALSE,,Week1,Practice
+11,Arrays,Two Pointers,Backspace string compare,FALSE,,Week2,Study
+12,Arrays,Two Pointers,3 Sum,FALSE,,Week2,Study
+13,Arrays,Two Pointers,Sort colors,FALSE,,Week2,Study
+14,Arrays,Two Pointers,Container with most water,FALSE,,Week2,Study
+15,Arrays,Two Pointers,Two sum,FALSE,,Week2,Practice
+16,Arrays,Two Pointers,Squares of a sorted array,FALSE,,Week2,Practice
+17,Arrays,Two Pointers,Subarray product less than k,FALSE,,Week2,Practice
+18,Arrays,Two Pointers,3 Sum closest,FALSE,,Week2,Practice
+19,Arrays,Two Pointers,Trapping rain water,FALSE,,Week2,Practice
+20,Arrays,Recursion & BackTracking,Letter combinations of a phone number,FALSE,,Week3,Study
+21,Arrays,Recursion & BackTracking,Combination sum,FALSE,,Week3,Study
+22,Arrays,Recursion & BackTracking,Permutations,FALSE,,Week3,Study
+23,Arrays,Recursion & BackTracking,Combinations,FALSE,,Week3,Study
+24,Arrays,Recursion & BackTracking,Subsets,FALSE,,Week3,Study
+25,Arrays,Recursion & BackTracking,Generate parentheses,FALSE,,Week3,Practice
+26,Arrays,Recursion & BackTracking,Combination sum II,FALSE,,Week3,Practice
+27,Arrays,Recursion & BackTracking,Permutations II,FALSE,,Week3,Practice
+28,Arrays,Recursion & BackTracking,Subsets II,FALSE,,Week3,Practice
+29,Arrays,Recursion & BackTracking,Palindrome partitioning,FALSE,,Week3,Practice
+30,Arrays,Recursion & BackTracking,Target sum,FALSE,,Week3,Practice
+31,Arrays,Recursion & BackTracking,Combination sum III,FALSE,,Week3,Practice
+32,Arrays,Recursion & BackTracking,Sudoku solver,FALSE,,Week3,Practice
+33,Arrays,Binary Search,Find smallest letter great than target,FALSE,,Week4,Study
+34,Arrays,Binary Search,Find peak element,FALSE,,Week4,Study
+35,Arrays,Binary Search,Peak index in a mountain array,FALSE,,Week4,Study
+36,Arrays,Binary Search,Search in rotated sorted array,FALSE,,Week4,Study
+37,Arrays,Binary Search,First bad version,FALSE,,Week4,Practice
+38,Arrays,Binary Search,Search in rotated sorted array II,FALSE,,Week4,Practice
+39,Arrays,Binary Search,Find minimum in rotated sorted array,FALSE,,Week4,Practice
+40,Arrays,Binary Search,Search a 2D matrix,FALSE,,Week4,Practice
+41,Arrays,Binary Search,Count of range sum,FALSE,,Week4,Practice
+42,Arrays,Stack,Valid parentheses,FALSE,,Week5,Study
+43,Arrays,Stack,Maximum subarray min-product,FALSE,,Week5,Study
+44,Arrays,Stack,Minimum add to make parentheses valid,FALSE,,Week5,Study
+45,Arrays,Stack,Merge intervals,FALSE,,Week5,Study
+46,Arrays,Stack,Maximum frequency stack,FALSE,,Week5,Study
+47,Arrays,Stack,Daily temperatures,FALSE,,Week5,Practice
+48,Arrays,Stack,Asteroid collision,FALSE,,Week5,Practice
+49,Arrays,Stack,Next greater element II,FALSE,,Week5,Practice
+50,Arrays,Stack,132 Pattern,FALSE,,Week5,Practice
+51,Arrays,Stack,Largest rectangle in histogram,FALSE,,Week5,Practice
+52,Arrays,Stack,Number of visible people in a queue,FALSE,,Week5,Practice
+53,Arrays,Greedy,Gas station,FALSE,,Week6,Study
+54,Arrays,Greedy,Largest number,FALSE,,Week6,Study
+55,Arrays,Greedy,Remove duplicate letters,FALSE,,Week6,Study
+56,Arrays,Greedy,Remove k digits,FALSE,,Week6,Study
+57,Arrays,Greedy,Integer replacement,FALSE,,Week6,Study
+58,Arrays,Greedy,Longest palindrome,FALSE,,Week6,Practice
+59,Arrays,Greedy,Shortest unsorted continuous subarray,FALSE,,Week6,Practice
+60,Arrays,Greedy,Valid triangle number,FALSE,,Week6,Practice
+61,Arrays,Greedy,Increasing triplet subsequence,FALSE,,Week6,Practice
+62,Arrays,Greedy,Best time to buy and sell stock II,FALSE,,Week6,Practice
+63,Trees,BFS,Minimum depth of binary tree,FALSE,,Week7,Study
+64,Trees,BFS,Populating next right pointers in each node,FALSE,,Week7,Study
+65,Trees,BFS,Binary tree zigzag level order traversal,FALSE,,Week7,Study
+66,Trees,BFS,Binary tree level order traversal II,FALSE,,Week7,Study
+67,Trees,BFS,Binary tree level order traversal,FALSE,,Week7,Practice
+68,Trees,BFS,Average of levels in binary tree,FALSE,,Week7,Practice
+69,Trees,BFS,Populating next right pointers in each node II,FALSE,,Week7,Practice
+70,Trees,BFS,Binary tree right side view,FALSE,,Week7,Practice
+71,Trees,BFS,All nodes distance k in binary tree,FALSE,,Week7,Practice
+72,Trees,DFS,Same tree,FALSE,,Week8,Study
+73,Trees,DFS,Merge two binary trees,FALSE,,Week8,Study
+74,Trees,DFS,Construct binary tree from preorder and inorder traversal,FALSE,,Week8,Study
+75,Trees,DFS,Maximum depth of binary tree,FALSE,,Week8,Practice
+76,Trees,DFS,Invert binary tree,FALSE,,Week8,Practice
+77,Trees,DFS,Path sum II,FALSE,,Week8,Practice
+78,Trees,DFS,Binary tree maximum path sum,FALSE,,Week8,Practice
+79,Trees,DFS,Path sum,FALSE,,Week9,Study
+80,Trees,DFS,Diameter of binary tree,FALSE,,Week9,Study
+81,Trees,DFS,Lowest common ancestor of binary tree,FALSE,,Week9,Study
+82,Trees,DFS,Sum root to leaf numbers,FALSE,,Week9,Practice
+83,Trees,DFS,Implement trie (prefix tree),FALSE,,Week9,Practice
+84,Trees,DFS,Kth smallest element in a bst,FALSE,,Week9,Practice
+85,Trees,DFS,Lowest common ancestor of binary search tree,FALSE,,Week9,Practice
+86,Trees,DFS,Validate binary search tree,FALSE,,Week9,Practice
+87,Trees,DFS,Path sum III,FALSE,,Week10,Practice
+88,Trees,DFS,Subtree of another tree,FALSE,,Week10,Practice
+89,Trees,DFS,Maximum binary tree,FALSE,,Week10,Practice
+90,Trees,DFS,Maximum width of binary tree,FALSE,,Week10,Practice
+91,Trees,DFS,Serialize and deserialize binary tree,FALSE,,Week10,Practice
+92,Graphs & Matrices,BFS&DFS,Flood fill,FALSE,,Week11,Study
+93,Graphs & Matrices,BFS&DFS,Number of islands,FALSE,,Week11,Study
+94,Graphs & Matrices,BFS&DFS,Max area of island,FALSE,,Week11,Study
+95,Graphs & Matrices,BFS&DFS,Evaluate division,FALSE,,Week11,Study
+96,Graphs & Matrices,BFS&DFS,Get watched videos by your friends,FALSE,,Week11,Study
+97,Graphs & Matrices,BFS&DFS,Clone graph,FALSE,,Week11,Study
+98,Graphs & Matrices,BFS&DFS,Number of operations to make network connected,FALSE,,Week11,Study
+99,Graphs & Matrices,BFS&DFS,Island perimeter,FALSE,,Week11,Practice
+100,Graphs & Matrices,BFS&DFS,Pacific atlantic water flow,FALSE,,Week11,Practice
+101,Graphs & Matrices,BFS&DFS,Surrounded regions,FALSE,,Week11,Practice
+102,Graphs & Matrices,BFS&DFS,Count sub islands,FALSE,,Week11,Practice
+103,Graphs & Matrices,BFS&DFS,Accounts merge,FALSE,,Week11,Practice
+104,Graphs & Matrices,BFS&DFS,Number of provinces,FALSE,,Week11,Practice
+105,Graphs & Matrices,BFS&DFS,Course schedule II,FALSE,,Week11,Practice
+106,Graphs & Matrices,BFS&DFS,Redundant connections,FALSE,,Week11,Practice
+107,Graphs & Matrices,Shortest Path & Dijkstra's,Network delay time,FALSE,,Week12,Study
+108,Graphs & Matrices,Shortest Path & Dijkstra's,Path with maximum probability,FALSE,,Week12,Study
+109,Graphs & Matrices,Shortest Path & Dijkstra's,Word ladder,FALSE,,Week12,Study
+110,Graphs & Matrices,Shortest Path & Dijkstra's,Cut off trees for golf event,FALSE,,Week12,Study
+111,Graphs & Matrices,Shortest Path & Dijkstra's,Path with minimum effort,FALSE,,Week12,Practice
+112,Graphs & Matrices,Shortest Path & Dijkstra's,Cheapest flights within k stops,FALSE,,Week12,Practice
+113,Graphs & Matrices,Shortest Path & Dijkstra's,Critical connections in a network,FALSE,,Week12,Practice
+114,Graphs & Matrices,Shortest Path & Dijkstra's,Shortest path to get all keys,FALSE,,Week12,Practice
